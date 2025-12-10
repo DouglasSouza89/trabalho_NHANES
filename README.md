@@ -1,4 +1,4 @@
-# 📊 Trabalho de Estatística – NHANES
+# 📊 Trabalho de Estatística – Lista 3
 
 🎓 **Pós-graduação:** MBA em Data Science & Advanced Analytics  
 📘 **Disciplina:** Applied Statistics  
@@ -26,15 +26,25 @@ Este projeto aplica conceitos fundamentais de estatística utilizando o dataset 
 
 TRABALHO_NHANES/
 ├─ images/
+
 │ ├─ sexo_escolaridade.png
+
 │ ├─ imc_distribuicao.png
+
 │ ├─ imc_normalizacao.png
+
 │ ├─ binomial_poisson.png
+
 │ └─ log_normal.png
+
 ├─ nhanes_2015_2016.csv
+
 ├─ README.md
+
 ├─ trabalho_estatistica_nhanes.ipynb
+
 ├─ trabalho_estatistica_nhanes.pdf
+
 └─ trabalho_estatistica_nhanes.html
 ---
 
